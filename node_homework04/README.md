@@ -1,6 +1,6 @@
-## Node.js Homework - Moment & File Operations
+# Node.js Homework - Moment & File Operations
 
-# Task 1 - Date Formatting with Moment
+## Task 1 - Date Formatting with Moment
 
 In this task, we:
 • Initialized a Node.js project
@@ -15,7 +15,7 @@ In this task, we:
 Purpose:
 To practice working with external npm packages and date formatting.
 
-# Task 2 - File Creation & Reading using fs and dotenv
+## Task 2 - File Creation & Reading using fs and dotenv
 
 In this task, we:
 • Installed and configured dotenv
